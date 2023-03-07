@@ -8,7 +8,7 @@ Hey {}
 
 Welcome to {}
 You can use me to manage channels with tons of features. Use below buttons to learn more !
-By @HYBRID_Bots
+By @OFFICIALBOT_UPDATE
     """
 
     # Home Button
@@ -18,13 +18,13 @@ By @HYBRID_Bots
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/HYBRID_Bots/8")],
+        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/OFFICIALBOT_UPDATE")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/HYBRID_Bots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/HYBRID_Chat")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/OFFICIALBOT_UPDATE")],
+        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/OFFICIALBOT_UPDATE")],
     ]
 
     # Help Message
@@ -48,7 +48,7 @@ Alternative Commands
     ABOUT = """
 **About This Bot** 
 
-A telegram channel automation bot by @HYBRID_Bots
+A telegram channel automation bot by @OFFICIALBOT_UPDATE
 
 Framework : [Pyrogram](docs.pyrogram.org)
 Language : [Python](www.python.org)
